@@ -30,9 +30,9 @@ df_esg = pd.read_csv("European ETFs - ESG.csv")
 engine = create_engine("postgresql://postgres:PASSWORD@localhost:5432/Financial%20Institution%20Analysis")
 
 files = {
-    'etf_overview': r'C:\Users\kevin\PycharmProjects\ProjectAlpha\Financial Institution Analysis\European ETFs - Fund Overview.csv',
-    'etf_financials': r'C:\Users\kevin\PycharmProjects\ProjectAlpha\Financial Institution Analysis\European ETFs - Financials.csv',
-    'etf_esg': r'C:\Users\kevin\PycharmProjects\ProjectAlpha\Financial Institution Analysis\European ETFs - ESG.csv'
+    'etf_overview': 'European ETFs - Fund Overview.csv',
+    'etf_financials': 'European ETFs - Financials.csv',
+    'etf_esg': 'European ETFs - ESG.csv'
 }
 
 print("Starting the engine...\n ")
