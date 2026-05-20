@@ -15,7 +15,8 @@ This project aims to answer two critical strategic questions for the financial n
 
 * **Debunking the "ESG Premium":** There is a remarkably weak mathematical correlation between fund fees and sustainability scores across all three pillars (Environmental, Social, and Governance). Asset managers do not price ESG as a luxury good.
 
-CORRELATION - ESG scores and management fees:
+**Statistical Correlation Output (Python):**
+```text
 management_fees        1.000000
 environmental_score    0.115465
 social_score           0.044917
@@ -25,15 +26,13 @@ governance_score       0.021009
 * **The Volatility Paradox:** Absolute exclusion strategies (Pure 0% with no unethical exposure) provide excellent capital protection during a market crash (Q1 2020 Return: `-2.3%`) but introduce extreme unpredictability (Std Dev: `17.5`) due to sector concentration.
 * **The Investment "Sweet Spot":** A **Low-Tolerance Framework (<10%)** represents the optimal choice, slashing portfolio volatility by nearly two-thirds while fully capturing market upside during recoveries.
 
-RETURN - Performance of funds invested in unethical involvement:
-                    fund_return_2019_q4                     fund_return_2020_q1                       fund_return_2020_q2                       fund_return_2020_q3                     
-                                  count      mean       std               count       mean        std               count       mean        std               count      mean        std
-merit_class                                                                                                                                                                             
-1.Pure (0%)                         825 -2.759927  8.794750                 864  -2.157315  41.346172                 888   6.309640  18.180178                 914  0.884037  17.540902
-2.Low (<10%)                        174 -0.407414  5.150696                 185 -13.546649  14.631493                 191  13.963717   9.009566                 200  0.977600   5.863856
-3.Moderate (10-20%)                 272  0.498529  4.799374                 282 -14.308546  11.531366                 285  14.914316   7.597473                 291  2.301718   6.058822
-4.High (20-35%)                     401  0.131446  3.154371                 410 -14.223000   9.717109                 426  15.041385   6.099236                 443  2.165102   4.979605
-5.Very High (>25%)                  685  0.770073  3.547887                 701 -15.440371  10.703171                 714  15.766555   6.151823                 745  1.779570   4.578494
+merit_class          | Q4 2019 Mean (Std) | Q1 2020 Mean (Std)  | Q2 2020 Mean (Std) | Q3 2020 Mean (Std)
+----------------------+--------------------+---------------------+--------------------+--------------------
+ 1. Pure (0%)         |  -2.75%  (8.79)    |  -2.15%  (41.34)    |  +6.30%  (18.18)   |  +0.88%  (17.54)
+ 2. Low (<10%)        |  -0.40%  (5.15)    | -13.54%  (14.63)    | +13.96%   (9.00)   |  +0.97%   (5.86)
+ 3. Moderate (10-20%) |  +0.49%  (4.79)    | -14.30%  (11.53)    | +14.91%   (7.59)   |  +2.30%   (6.05)
+ 4. High (20-35%)     |  +0.13%  (3.15)    | -14.22%   (9.71)    | +15.04%   (6.09)   |  +2.16%   (4.97)
+ 5. Very High (>25%)  |  +0.77%  (3.54)    | -15.44%  (10.70)    | +15.76%   (6.15)   |  +1.77%   (4.57)
 
 
 TOP 5 PERFORMING FUNDS (Q4 2020):
