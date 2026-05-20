@@ -1,4 +1,3 @@
-# Mutual-Fund-ESG-and-Unethical-Involvement-Analysis
 # Mutual Fund ESG and Unethical Involvement Analysis
 
 An end-to-end data analytics project investigating the relationship between management fees, ESG ratings, and market resilience across European ETFs during the 2020 market crisis. Developed for **Banca Generali** evaluation.
