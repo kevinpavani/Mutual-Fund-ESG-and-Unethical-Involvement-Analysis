@@ -20,7 +20,8 @@ This project aims to answer two critical strategic questions for the financial n
 management_fees        1.000000
 environmental_score    0.115465
 social_score           0.044917
-governance_score       0.021009
+governance_score       0.021000
+```
 
 
 * **The Volatility Paradox:** Absolute exclusion strategies (Pure 0% with no unethical exposure) provide excellent capital protection during a market crash (Q1 2020 Return: `-2.3%`) but introduce extreme unpredictability (Std Dev: `17.5`) due to sector concentration.
