@@ -1,9 +1,9 @@
 # Mutual-Fund-ESG-and-Unethical-Involvement-Analysis
 
-📌 Executive Summary
+📌 **Executive Summary
 This project aims to answer 2 strategic questions for the financial network:
     - Do higher ESG scores entail higher management fees?
-    - Does exposure to unethical sectores translate to better fund performance? 
+    - Does exposure to unethical sectores translate to better fund performance? **
 ---
 
 📉 Key Findings**
