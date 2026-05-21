@@ -1,12 +1,12 @@
 # Mutual Fund ESG and Unethical Involvement Analysis
 
-An end-to-end data analytics project investigating the relationship between management fees, ESG ratings, and market resilience across European ETFs during the 2020 market crisis. Developed for **Banca Generali** evaluation.
+An end-to-end data analytics project investigating the relationship between management fees, ESG ratings, and market resilience across European ETFs during the 2020 market crisis.
 
 ---
 
 ## 📌 Executive Summary
-This project aims to answer two critical strategic questions for the financial network:
-1. **The ESG Pricing Paradox:** Do higher ESG scores entail higher management fees?
+This project aims to answer two strategic questions for the financial ecosystem:
+1. **The ESG Pricing Paradox:** Do higher ESG scores translate to higher management fees?
 2. **The Ethical Shield:** Does exposure to unethical sectors translate to better fund performance?
 
 ---
