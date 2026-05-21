@@ -24,7 +24,7 @@ governance_score       0.021000
 ```
 
 
-* **The Volatility Paradox:** Absolute exclusion strategies (Pure 0% with no unethical exposure) provide excellent capital protection during a market crash (Q1 2020 Return: `-2.3%`) but introduce extreme unpredictability (Std Dev: `17.5`) due to sector concentration.
+* **The Volatility Paradox:** Mutual funds which followed an absolute exclusion strategy, "Pure 0%" with no exposure to industries such as defense, animal testing, alcohol, tobacco, gambling etc.) provide excellent capital protection during a market crash (Q1 2020 Return: `-2.3%`) but introduce extreme unpredictability (Std Dev: `17.5`) due to sector concentration.
 * **The Investment "Sweet Spot":** A **Low-Tolerance Framework (<10%)** represents the optimal choice, slashing portfolio volatility by nearly two-thirds while fully capturing market upside during recoveries.
 
 ```text
